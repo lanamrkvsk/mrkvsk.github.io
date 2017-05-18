@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+
+
+
+body{
+  
+  background-color: #18171b;
+  
+}
+
+
+
+.t-sec{
+  
+width: 1170px;
+
+margin: auto;
+  
+}
+
+
+.ib{
+  display: inline-block;
+  box-sizing: border-box;
+  vertical-align: top;
+}
+
+
+.left{
+  font-family: 'Roboto', sans-serif;
+  width: 500px;
+  height: 500px;
+ padding: 30px 10px;
+
+  
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  font-size: 36px;
+}
+
+h3{
+  
+  color: #787488;
+  font-size: 30px;
+  
+}
+
+p{
+  color: #787488;
+  font-size: 20px;
+}
+
+
+.right{
+  
+  width: 670px;
+  height: 500px;
+}
+
+.vertimg{
+  
+  width: 220px;
+  height: 500px;
+  background: gray 50%/cover;
+  
+}
+
+
+
+.bg1{
+  
+  background-image: url("https://my.informatics.ru/media/ck_uploads/mushta/2016/12/09/page-1_img01.jpg");
+  
+}
+
+.bg2{
+  
+  background-image: url("https://my.informatics.ru/media/ck_uploads/mushta/2016/12/09/page-1_img02.jpg");
+  
+}
+.bg3{
+  
+  background-image: url("https://my.informatics.ru/media/ck_uploads/mushta/2016/12/09/page-1_img03.jpg");
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
